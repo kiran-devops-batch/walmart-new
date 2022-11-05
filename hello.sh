@@ -8,3 +8,5 @@ echo "java has installed"
 else
 echo "java has not installed"
 fi
+echo "this update is done in master branch"
+
