@@ -12,4 +12,5 @@ date
 else 
 echo "plese enter two agrguements"
 echo " usage : sh $0 dbname dbbackup"
+echo"updated"
 fi
